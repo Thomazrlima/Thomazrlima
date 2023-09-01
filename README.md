@@ -59,8 +59,8 @@ class HERBIE {
   
  ## Developer of:
 
-[![Projeto_FP](https://github-readme-stats.vercel.app/api/pin/?username=P-E-E-T&repo=Projeto_FP&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-E-T/Projeto_FP)
-   
+[![CRUD-Particular](https://github.com/P-E-N-T-E-S/CRUD-Particular)
+[![Coffee-Break](https://github.com/P-E-N-T-E-S/Coffee-Break)
 
  ## Contributor:
 

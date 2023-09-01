@@ -66,6 +66,12 @@ class HERBIE {
 
 [![Aratuque](https://github-readme-stats.vercel.app/api/pin/?username=mateusioliveira&repo=MangueHeat&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)]((https://github.com/mateusioliveira/MangueHeat))
 
+## Most Useds languages
+
+<a href="https://github.com/thomazrlima">
+    <img align="left" height="150em" src="http://git-stats-definitive.vercel.app/api/top-langs/?username=thomazrlima&layout=compact&theme=tokyonight"/>
+</a>
+
 <!--
 Future inserts
 

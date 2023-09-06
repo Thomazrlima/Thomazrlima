@@ -60,11 +60,12 @@ class HERBIE {
  ## Developer of:
 
 [![CRUD-Particular](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=CRUD-Particular&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/CRUD-Particular)
-[![Coffee-Break](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Coffee-Break&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Coffee-Break)
+[![Kolekto](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Kolekto&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Kolekto)
 
  ## Contributor:
 
 [![Aratuque](https://github-readme-stats.vercel.app/api/pin/?username=mateusioliveira&repo=MangueHeat&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)]((https://github.com/mateusioliveira/MangueHeat))
+[![Coffee-Break](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Coffee-Break&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Coffee-Break)
 
 ## Most Useds languages
 

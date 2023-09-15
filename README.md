@@ -28,7 +28,7 @@ class HERBIE {
 }
 ```
 
-- 📚 Estudando Ciência da Computação no [Cesar School](https://github.com/Abduzidos)
+- 📚 Estudando Ciência da Computação no [Cesar School](https://github.com/CESARBR)
 - 🦆 Estou atualmente estudando: Python, C<br>
 - 💬 Me pergunte sobre: `I.A.`, `Back-End` e `Se Meu Fusca Falasse`<br>
 

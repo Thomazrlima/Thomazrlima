@@ -64,16 +64,13 @@ class HERBIE {
 
 [![CRUD-Particular](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=CRUD-Particular&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/CRUD-Particular)
 [![Kolekto](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Kolekto&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Kolekto)
+[![Pris.ME](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Pris.ME&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Pris.ME)
+[![Pong2](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Pong2&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Pong2)
 
  ## Contributor:
 
-[![Aratuque](https://github-readme-stats.vercel.app/api/pin/?username=mateusioliveira&repo=MangueHeat&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)]((https://github.com/mateusioliveira/MangueHeat))
+[![Tutorial-VC](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Tutorial-VC&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Tutorial-VC)
 [![Coffee-Break](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Coffee-Break&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Coffee-Break)
 
-## Most Useds languages
-
-<a href="https://github.com/thomazrlima">
-    <img align="left" height="150em" src="http://git-stats-definitive.vercel.app/api/top-langs/?username=thomazrlima&layout=compact&theme=tokyonight"/>
-</a>
 
 <!--Garoto de programa. Trabalha e interage em todas as abordagens: frente (front) e fundo (back). Atende em finais de semana e durante feriados-->

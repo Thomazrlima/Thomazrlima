@@ -52,9 +52,9 @@ class HERBIE {
   
  ## Developer of:
 
-  <a href="https://github.com/godkingjay/selenium-twitter-scraper" target="_blank">
+  <a href="https://github.com/P-E-N-T-E-S/Kolekto" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&theme=radical&repo=Kolekto" width="49%" alt="Selenium Twitter Scraper"/>
   </a>
-    <a href="https://github.com/godkingjay/selenium-twitter-scraper" target="_blank">
+    <a href="https://github.com/P-E-N-T-E-S/Pris.ME" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&theme=radical&repo=Pris.ME" width="49%" alt="Selenium Twitter Scraper"/>
   </a>

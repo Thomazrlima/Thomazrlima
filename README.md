@@ -58,19 +58,3 @@ class HERBIE {
     <a href="https://github.com/godkingjay/selenium-twitter-scraper" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&theme=radical&repo=Pris.ME" width="49%" alt="Selenium Twitter Scraper"/>
   </a>
-
-<div align="center">
-  <h2 align="center">📫 Onde você pode me achar?<img src="./assets/borderseparator.gif"/></h2>
-  &nbsp
-  <a href="https://twitter.com/thomaz480" target="_blank">
-    <img src="./assets/logos/neon-twitter.png" width="48px" alt="Twitter"/>
-  </a>
-  &nbsp
-  <a href="https://www.linkedin.com/in/thomazrlima/" target="_blank">
-    <img src="./assets/logos/neon-linkedin.png" width="48px" alt="LinkedIn"/>
-  </a>
-  &nbsp
-  <a href="https://discord.com/users/thomazrlima" target="_blank">
-    <img src="./assets/logos/neon-discord.png" width="48px" alt="Discord"/>
-  </a>
-</div>

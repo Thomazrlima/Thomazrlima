@@ -20,7 +20,7 @@ class HERBIE {
 
 - 📚 Estudando Ciência da Computação no [Cesar School](https://github.com/CESARBR)
 - 🦆 Estou atualmente estudando: Java, C e C++<br>
-- 💬 Me pergunte sobre: `I.A.`, `Back-End` e `Se Meu Fusca Falasse`<br>
+- 💬 Me pergunte sobre: `I.A.`, `Back-End` e `Se Meu Fusca Falasse`<br><br>
 
 <div align="center">
   <h3> <strong> Linguagens, Frameworks, e Ferramentas </strong></h3>

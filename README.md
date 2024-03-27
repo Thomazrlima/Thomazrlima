@@ -1,17 +1,7 @@
 <div align="center">
-<h1>Salut, je m'appelle Thomaz</h1>
-</div>
-
-<p align='center'>
-
-</p>
-<div align="center">
-📫 Onde você pode me achar?:
-
-<div align="center"> 
-  <a href = "mailto:thomazlima21@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thomazrlima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Oi%2C+eu+sou+Thomaz,+Bem-Vindo+ao+meu+Perfl!" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="80%" align="middle" />
+  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 </div>
 
 ## <img width="45" alt="about" src="https://i.imgur.com/FWUCFTF.jpeg"> Mais sobre mim
@@ -32,50 +22,55 @@ class HERBIE {
 - 🦆 Estou atualmente estudando: Java, C e C++<br>
 - 💬 Me pergunte sobre: `I.A.`, `Back-End` e `Se Meu Fusca Falasse`<br>
 
+<div align="center">
+  <h3> <strong> Linguagens, Frameworks, e Ferramentas </strong></h3>
+  <img src="https://skillicons.dev/icons?i=git,github,django,visualstudio,replit,html,css,js,react,eclipse,java,c,cpp,py,sqlite" alt="skills logos" />
+  
+  <br> 
+  <h2></h2>
+  <h3> <strong> Estudando Atualmente </strong></h3>
+  <img src="https://skillicons.dev/icons?i=c,java,html,css" alt="skills actively learning logos">
+  <br>
+</div>
 
-##
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomazrlima&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <br>
+</div>
 
-### Top Languages and Tools:
+<div align="center">
+  <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Thomazrlima&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Thomazrlima&theme=radical&show_icons=true&count_private=true" width="46%" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Thomazrlima&theme=radical" width="49%" alt="streaks graph" />
+</div> <br>
 
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-
-##
-
-<div>
-  <a align="left" href="https://github.com/Thomazrlima">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thomazrlima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Thomazrlima">
-    <img align="rigth" height="160em" src="https://streak-stats.demolab.com?user=Thomazrlima&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&/">
-  </a>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thomazrlima&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Thomazrlima's Github Activity Graph" width="96%">
 </div>
   
  ## Developer of:
 
-[![Kolekto](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Kolekto&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Kolekto)
-[![Pris.ME](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Pris.ME&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Pris.ME)
+  <a href="https://github.com/godkingjay/selenium-twitter-scraper" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&theme=radical&repo=Kolekto" width="49%" alt="Selenium Twitter Scraper"/>
+  </a>
+    <a href="https://github.com/godkingjay/selenium-twitter-scraper" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&theme=radical&repo=Pris.ME" width="49%" alt="Selenium Twitter Scraper"/>
+  </a>
 
-## Most Used Languages
-
-<a href="https://github.com/thomazrlima">
-    <img align="left" height="150em" src="http://git-stats-definitive.vercel.app/api/top-langs/?username=Thomazrlima&layout=compact&theme=tokyonight"/>
-</a>
-
-
-<!--Garoto de programa. Trabalha e interage em todas as abordagens: frente (front) e fundo (back). Atende em finais de semana e durante feriados-->
+<div align="center">
+  <h2 align="center">📫 Onde você pode me achar?<img src="./assets/borderseparator.gif"/></h2>
+  &nbsp
+  <a href="https://twitter.com/thomaz480" target="_blank">
+    <img src="./assets/logos/neon-twitter.png" width="48px" alt="Twitter"/>
+  </a>
+  &nbsp
+  <a href="https://www.linkedin.com/in/thomazrlima/" target="_blank">
+    <img src="./assets/logos/neon-linkedin.png" width="48px" alt="LinkedIn"/>
+  </a>
+  &nbsp
+  <a href="https://discord.com/users/thomazrlima" target="_blank">
+    <img src="./assets/logos/neon-discord.png" width="48px" alt="Discord"/>
+  </a>
+</div>

@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Oi%2C+eu+sou+Thomaz,+Bem-Vindo+ao+meu+Perfl!" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="80%" align="middle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Oi+eu+sou+Thomaz,+Bem-Vindo+ao+meu+Perfl!" alt="Oi eu sou Thomaz, Bem-vindo ao meu perfil! animated typed out" width="80%" align="middle" />
   <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 </div>
 
@@ -11,7 +11,7 @@
 ```Python
 class HERBIE {
  name = "Thomaz Rorigues Lima"
- acknowledgements = "Back-end dev".join(college.learning())
+ acknowledgements = "Web dev".join(college.learning())
  
  languages = ["Python","C","Java"]
 
@@ -20,7 +20,7 @@ class HERBIE {
 
 - 📚 Estudando Ciência da Computação no [Cesar School](https://github.com/CESARBR)
 - 🦆 Estou atualmente estudando: Java, C e C++<br>
-- 💬 Me pergunte sobre: `I.A.`, `Back-End` e `Se Meu Fusca Falasse`<br><br>
+- 💬 Me pergunte sobre: `I.A.`, `Web dev` e `Herbie`<br><br>
 
 <div align="center">
   <h3> <strong> Linguagens, Frameworks, e Ferramentas </strong></h3>

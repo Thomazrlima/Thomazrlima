@@ -4,22 +4,23 @@
   <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 </div>
 
-## <img width="45" alt="about" src="https://i.imgur.com/FWUCFTF.jpeg"> Mais sobre mim
+## <img width="45" alt="about" src="https://i.pinimg.com/474x/1b/a5/e5/1ba5e5344af0439e8fb0bf6aca6fc2e2.jpg"> Mais sobre mim
 
-<img align="right" width="335" src="https://i.imgur.com/5LtqUYr.gif" />
+<img align="right" width="335" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlxd2YwYjFsb21lcTNhOGdwbzFpcDl2YzQ0aGVkMjRyNTkzNGkyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qT8XPCy5dqjsc/giphy.gif" />
 
 ```Python
 class HERBIE {
  name = "Thomaz Rorigues Lima"
  acknowledgements = "Web dev".join(college.learning())
  
- languages = ["Python","C","Java"]
+ languages = ["Python","C", "R", "GDScript", "Java"]
 
 }
 ```
 
 - 📚 Estudando Ciência da Computação no [Cesar School](https://github.com/CESARBR)
-- 🦆 Estou atualmente estudando: Java, C e C++<br>
+- 📚 Em Mobilidade Acadêmica na [Universidade do Algarve](https://www.ualg.pt/)
+- 🦆 Estou atualmente estudando: R, C e GLSL<br>
 - 💬 Me pergunte sobre: `I.A.`, `Web dev` e `Herbie`<br><br>
 
 <div align="center">
@@ -29,7 +30,7 @@ class HERBIE {
   <br> 
   <h2></h2>
   <h3> <strong> Estudando Atualmente </strong></h3>
-  <img src="https://skillicons.dev/icons?i=c,java,html,css" alt="skills actively learning logos">
+  <img src="https://skillicons.dev/icons?i=c,java,r,python" alt="skills actively learning logos">
   <br>
 </div>
 
@@ -52,9 +53,9 @@ class HERBIE {
   
  ##  Projetos Destaque:
 
-  <a href="https://github.com/P-E-N-T-E-S/Kolekto" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&theme=radical&repo=Kolekto" width="49%" alt="Selenium Twitter Scraper"/>
+  <a href="https://github.com/P-E-N-T-E-S/Bravi_mySQL" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&theme=radical&repo=Bravi_mySQL" width="49%" alt="Selenium Twitter Scraper"/>
   </a>
-    <a href="https://github.com/P-E-N-T-E-S/Pris.ME" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&theme=radical&repo=Pris.ME" width="49%" alt="Selenium Twitter Scraper"/>
+    <a href="https://github.com/P-E-N-T-E-S/SUBlime" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&theme=radical&repo=SUBlime" width="49%" alt="Selenium Twitter Scraper"/>
   </a>
